@@ -16,6 +16,9 @@ The directly also contains HTML files that the Feather sends to the client. Thes
 
 The code is based on [A Beginner's Guide to the ESP8266](https://tttapa.github.io/ESP8266/Chap01%20-%20ESP8266.html). That tutorial is great reference tool for using the Feather board.
 
+![Web view](https://raw.githubusercontent.com/max-charlamb/Web-Enabled-Door-Lock/images/webview.png)
+
+
 
 ### STL Files:
 There are 3 STL files provided. The servo housing, split into two parts, and the servo horn addition. These are meant for 
@@ -23,4 +26,6 @@ a standard size servo but may need to be filed down.
 All three models are designed so that they can be printed without support. I used epoxy to glue the two halves of the lock
 body together and the servo horn addition on to the servo horn. 
 The files are designed to be used with command strips to affix it to the door.
+
+![Web view](https://raw.githubusercontent.com/max-charlamb/Web-Enabled-Door-Lock/images/lockbody.png)
 
